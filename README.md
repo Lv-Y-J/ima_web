@@ -1,4 +1,4 @@
-# ima-web
+# ima_web
 
 ## Project setup
 ```
